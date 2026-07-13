@@ -1,0 +1,1 @@
+Give me a unique and relevant section for a DevConf 2026 website. The section should fit a modern developer conference landing page, include a heading, a short introduction, feature cards or content blocks, and a call-to-action. Use only HTML and CSS.

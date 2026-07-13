@@ -354,14 +354,14 @@ font-weight: 700;
 }
 .dc-hack-btn-blue {
   background-color: #06b6d4;
-  color: #000000 !important;
+  color: #000000;
 }
 .dc-hack-btn-blue:hover {
   background-color: #22d3ee;
 }
 .dc-hack-btn-dark {
   background-color: #1e293b;
-  color: #ffffff !important;
+  color: #ffffff;
   border: 1px solid #334155;
 }
 .dc-hack-btn-dark:hover {
